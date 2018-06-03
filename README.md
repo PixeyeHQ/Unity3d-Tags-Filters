@@ -33,6 +33,6 @@ Tag filter is a small snippet for Unity that allows logically group your int var
 ```
 
 ## Other content
-[InspectorFoldoutGroup](https://github.com/dimmpixeye/InspectorFoldoutGroup) -  an extension to add foldable groups to the inspector.
-[ACTORS](https://github.com/dimmpixeye/Actors-Unity3d-Framework) - Unity3d data driven framework I'm currently working on.
+* [InspectorFoldoutGroup](https://github.com/dimmpixeye/InspectorFoldoutGroup) -  an extension to add foldable groups to the inspector.
+* [ACTORS](https://github.com/dimmpixeye/Actors-Unity3d-Framework) - Unity3d data driven framework I'm currently working on.
  
