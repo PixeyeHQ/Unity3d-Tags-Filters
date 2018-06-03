@@ -11,6 +11,7 @@ Extending a Unity3d Inspector window to show int tags
 
 ## What is it?
 Tag filter is a small snippet for Unity that allows logically group your int variables in the inspector. It doesn't compete with enums.
+It is useful when you want to keep things dead simple without unnecessary cast ints to enums.
 
 
 ```csharp
@@ -34,5 +35,5 @@ Tag filter is a small snippet for Unity that allows logically group your int var
 
 ## Other content
 * [InspectorFoldoutGroup](https://github.com/dimmpixeye/InspectorFoldoutGroup) -  an extension to add foldable groups to the inspector.
-* [ACTORS](https://github.com/dimmpixeye/Actors-Unity3d-Framework) - Unity3d data driven framework I'm currently working on.
+* [ACTORS](https://github.com/dimmpixeye/Actors-Unity3d-Framework) - Unity3d data-driven framework I'm currently working on.
  
